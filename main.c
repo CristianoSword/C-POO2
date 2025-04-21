@@ -2,7 +2,7 @@
 
 // ===== Definição da classe Pessoa =====
 typedef struct {
-    // Atributos (dados)
+    // Parâmetros (dados)
     char* nome;
     int idade;
     
