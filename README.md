@@ -2,6 +2,7 @@
 C com classes completo para POO
 
 result:
+```
 === Demonstração de POO em C ===
 
 Olá, meu nome é João e tenho 30 anos.
@@ -19,3 +20,4 @@ Objeto 2: Olá, sou Maria, tenho 21 anos e estudo Administração.
 Destruindo pessoa: João
 Destruindo estudante: Maria do curso Administração
 Destruindo pessoa: Maria
+```
